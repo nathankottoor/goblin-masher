@@ -1,0 +1,14 @@
+GOBLIN MASHER — PERMISSION NOTICE
+
+Copyright (c) 2026 Nathan Kottoor, for original content owned by Nathan Kottoor. All rights reserved.
+
+You may play the official hosted game for personal enjoyment and share its official link:
+https://nathankottoor.github.io/goblin-masher/
+
+Except where permitted by applicable law, a third-party license, or GitHub's Terms of Service, you must obtain Nathan Kottoor's prior written permission before republishing, re-uploading, redistributing, selling, or publishing modified versions of Goblin Masher. This includes uploading it to itch.io, another game portal, a storefront, or another website. Do not claim the game as your own.
+
+Request permission through the GitHub account https://github.com/nathankottoor.
+
+This notice covers only content and rights owned by Nathan Kottoor. The Godot engine and third-party fonts, artwork, audio, and other components remain subject to their respective licenses and owners' rights. This notice does not replace those licenses or claim ownership of those components.
+
+GitHub's Terms of Service rights, including viewing and forking this public repository through GitHub, are unaffected. No additional redistribution or publication permission is granted by this notice.
